@@ -1,0 +1,17 @@
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_DataAccess/bin/Debug/net7.0/OnlineShop_DataAccess.deps.json
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_DataAccess/bin/Debug/net7.0/OnlineShop_DataAccess.runtimeconfig.json
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_DataAccess/bin/Debug/net7.0/OnlineShop_DataAccess.dll
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_DataAccess/bin/Debug/net7.0/OnlineShop_DataAccess.pdb
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_DataAccess/bin/Debug/net7.0/OnlineShop_Domain.dll
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_DataAccess/bin/Debug/net7.0/OnlineShop_Domain.pdb
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_DataAccess/obj/Debug/net7.0/OnlineShop_DataAccess.csproj.AssemblyReference.cache
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_DataAccess/obj/Debug/net7.0/OnlineShop_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_DataAccess/obj/Debug/net7.0/OnlineShop_DataAccess.AssemblyInfoInputs.cache
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_DataAccess/obj/Debug/net7.0/OnlineShop_DataAccess.AssemblyInfo.cs
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_DataAccess/obj/Debug/net7.0/OnlineShop_DataAccess.csproj.CoreCompileInputs.cache
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_DataAccess/obj/Debug/net7.0/OnlineSh.16460EA7.Up2Date
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_DataAccess/obj/Debug/net7.0/OnlineShop_DataAccess.dll
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_DataAccess/obj/Debug/net7.0/refint/OnlineShop_DataAccess.dll
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_DataAccess/obj/Debug/net7.0/OnlineShop_DataAccess.pdb
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_DataAccess/obj/Debug/net7.0/OnlineShop_DataAccess.genruntimeconfig.cache
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_DataAccess/obj/Debug/net7.0/ref/OnlineShop_DataAccess.dll

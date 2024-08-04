@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OnlineShop_MVC
+build_property.RootNamespace = OnlineShop_MVC
+build_property.ProjectDir = /Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/Home/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/Home/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/Home/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/Home/Shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TaG9wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/Shared/Components/CartNavbar/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ2FydE5hdmJhci9kZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/Shared/Components/CheckoutNavbar/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ2hlY2tvdXROYXZiYXIvZGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/Shared/Components/ContactNavbar/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ29udGFjdE5hdmJhci9kZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/Shared/Components/DetailNavbar/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvRGV0YWlsTmF2YmFyL2RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/Shared/Components/IndexNavbar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvSW5kZXhOYXZiYXIvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/Shared/Components/ItemOnlyName/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvSXRlbU9ubHlOYW1lL2RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/Shared/Components/ItemWithAllInformation/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvSXRlbVdpdGhBbGxJbmZvcm1hdGlvbi9kZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/Shared/Components/ShopItemWithAllInformation/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvU2hvcEl0ZW1XaXRoQWxsSW5mb3JtYXRpb24vZGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/Shared/Components/ShopNavbar/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvU2hvcE5hdmJhci9kZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vsxblnr3xa

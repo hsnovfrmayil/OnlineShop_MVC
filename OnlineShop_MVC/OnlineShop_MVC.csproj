@@ -1,0 +1,57 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineShop_Domain\OnlineShop_Domain.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\OnlineShop_DataAccess\OnlineShop_DataAccess.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Areas\" />
+    <None Remove="Areas\Admin\" />
+    <None Remove="Areas\Admin\Controllers\" />
+    <None Remove="Areas\Admin\Data\" />
+    <None Remove="Areas\Admin\Views\" />
+    <None Remove="Areas\Admin\Models\" />
+    <None Remove="ViewComponents\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="Views\Shared\Components\IndexNavbar\" />
+    <None Remove="Views\Shared\Components\CartNavbar\" />
+    <None Remove="Views\Shared\Components\CheckoutNavbar\" />
+    <None Remove="Views\Shared\Components\ContactNavbar\" />
+    <None Remove="Views\Shared\Components\DetailNavbar\" />
+    <None Remove="Views\Shared\Components\ShopNavbar\" />
+    <None Remove="Views\Shared\Components\ItemOnlyName\" />
+    <None Remove="Views\Shared\Components\ItemWithAllInformation\" />
+    <None Remove="Views\Shared\Components\ShopItemWithAllInformation\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Areas\" />
+    <Folder Include="Areas\Admin\" />
+    <Folder Include="Areas\Admin\Controllers\" />
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Admin\Views\" />
+    <Folder Include="Areas\Admin\Models\" />
+    <Folder Include="ViewComponents\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\IndexNavbar\" />
+    <Folder Include="Views\Shared\Components\CartNavbar\" />
+    <Folder Include="Views\Shared\Components\CheckoutNavbar\" />
+    <Folder Include="Views\Shared\Components\ContactNavbar\" />
+    <Folder Include="Views\Shared\Components\DetailNavbar\" />
+    <Folder Include="Views\Shared\Components\ShopNavbar\" />
+    <Folder Include="Views\Shared\Components\ItemOnlyName\" />
+    <Folder Include="Views\Shared\Components\ItemWithAllInformation\" />
+    <Folder Include="Views\Shared\Components\ShopItemWithAllInformation\" />
+  </ItemGroup>
+</Project>

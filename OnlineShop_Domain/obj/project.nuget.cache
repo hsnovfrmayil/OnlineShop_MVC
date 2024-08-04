@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RKVVtIKhDu4oQMVf9PDXwTXZ01IS54Cy7Gw9x2UluS/OJKCA5c5lovpcJz0/VMJ6FE7qKChZtCnbVouakJ48YA==",
+  "success": true,
+  "projectFilePath": "/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_Domain/OnlineShop_Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/fermayilhesenov/.nuget/packages/microsoft.netcore.app.ref/7.0.18/microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/fermayilhesenov/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.18/microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

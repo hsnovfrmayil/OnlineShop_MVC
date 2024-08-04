@@ -1,0 +1,11 @@
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_Domain/bin/Debug/net7.0/OnlineShop_Domain.deps.json
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_Domain/bin/Debug/net7.0/OnlineShop_Domain.dll
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_Domain/bin/Debug/net7.0/OnlineShop_Domain.pdb
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_Domain/obj/Debug/net7.0/OnlineShop_Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_Domain/obj/Debug/net7.0/OnlineShop_Domain.AssemblyInfoInputs.cache
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_Domain/obj/Debug/net7.0/OnlineShop_Domain.AssemblyInfo.cs
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_Domain/obj/Debug/net7.0/OnlineShop_Domain.csproj.CoreCompileInputs.cache
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_Domain/obj/Debug/net7.0/OnlineShop_Domain.dll
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_Domain/obj/Debug/net7.0/refint/OnlineShop_Domain.dll
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_Domain/obj/Debug/net7.0/OnlineShop_Domain.pdb
+/Users/fermayilhesenov/Projects/OnlineShop/OnlineShop_Domain/obj/Debug/net7.0/ref/OnlineShop_Domain.dll

@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{A08F937F-8410-4491-B357-A705ED0DFF39}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnlineShop_MVC/Views/Home/Shop.cshtml">
+    <Files>
+      <File FileName="OnlineShop_MVC/Views/Home/Cart.cshtml" Line="1" Column="1" />
+      <File FileName="OnlineShop_MVC/Views/Home/Contact.cshtml" Line="1" Column="1" />
+      <File FileName="OnlineShop_MVC/Views/Home/Detail.cshtml" Line="71" Column="19" />
+      <File FileName="OnlineShop_MVC/Views/Home/Checkout.cshtml" Line="1" Column="1" />
+      <File FileName="OnlineShop_MVC/Views/Home/Index.cshtml" Line="181" Column="23" />
+      <File FileName="OnlineShop_MVC/Views/Home/Shop.cshtml" Line="28" Column="7" />
+      <File FileName="OnlineShop_MVC/Views/Shared/Components/ItemOnlyName/default.cshtml" Line="52" Column="8" />
+      <File FileName="OnlineShop_MVC/Views/Shared/Components/ItemWithAllInformation/default.cshtml" Line="61" Column="8" />
+      <File FileName="OnlineShop_MVC/Views/Shared/Components/ShopItemWithAllInformation/default.cshtml" Line="26" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnlineShop" expanded="True">
+            <Node name="OnlineShop_MVC" expanded="True">
+              <Node name="Areas" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="ViewComponents" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Shop.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="ContactNavbar" expanded="True" />
+                    <Node name="ItemOnlyName" expanded="True" />
+                    <Node name="ItemWithAllInformation" expanded="True" />
+                    <Node name="ShopItemWithAllInformation" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="eshopper" expanded="True">
+                  <Node name="css" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.OnlineShop__MVC PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OnlineShop__DataAccess FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.OnlineShop__Domain FirstBuild="True" />
+</Properties>
